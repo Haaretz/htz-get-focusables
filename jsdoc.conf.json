@@ -20,7 +20,7 @@
 		"default": {
 			"outputSourceFiles": true
 		},
-    "systemName": "HTZ UI Blocker",
+    "systemName": "HTZ Get Focusables",
 		"theme": "slate",
 		"navType": "vertical",
 		"linenums": true,
